@@ -1,6 +1,6 @@
 ```
 Yo! I'm Yash,
-I am a student(currently) and someday want to build a full OS by myself.(Might seem delusional but I have always been...)
+I am a student(currently) and someday want to build a full OS by myself.(Yes delusional but I have always been...)
 I currently have java, C and C++ as my main languages with Mongodb
 (I mean writing SELF SUFFICIENT CODE with java as my DSA training language.)
 I have also learnt Go trying to contribute to kubernetes and trying some *good first issues* and struggling along.
