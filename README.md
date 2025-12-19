@@ -4,6 +4,7 @@ I am a student(currently) and someday want to build a full OS by myself.(Yes del
 I currently have java, C and C++ as my main languages with Mongodb
 (I mean writing SELF SUFFICIENT CODE with java as my DSA training language.)
 I have also learnt Go trying to contribute to kubernetes and trying some *good first issues* and struggling along.
+issue link:https://github.com/kubernetes/kubernetes/issues/135487  issue#1354867  resource.MustParse() failing near large values MaxInt64
 I also do penetration testing just for the fun (just wish finding vulnerabilities was as easy as in the 90s)
 Learning along,
 Thank You Linus Torvalds !
