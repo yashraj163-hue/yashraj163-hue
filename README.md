@@ -6,7 +6,7 @@ I currently have java, C and C++ as my main languages with Mongodb
 I have also learnt Go trying to contribute to kubernetes and trying some *good first issues* and struggling along.
 I also do penetration testing just for the fun (just wish finding vulnerabilities was as easy as in the 90s)
 Learning along,
-Thank You Linus Torvalds for github!
+Thank You Linus Torvalds !
 ```
 ####  Languages & Tools
 
