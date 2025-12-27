@@ -9,6 +9,8 @@ resource.MustParse() failing near large values MaxInt64
 I also do penetration testing just for the fun (just wish finding vulnerabilities was as easy as in the 90s)
 Learning along,
 Thank You Linus Torvalds !
+//update: my new eval package is under development and will be published soon.
+refer to this link for info about package -https://www.linkedin.com/feed/update/urn:li:activity:7409662594699059200/
 ```
 ####  Languages & Tools
 
